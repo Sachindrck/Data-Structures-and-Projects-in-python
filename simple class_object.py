@@ -1,7 +1,7 @@
 #class computer
 class Computer:
 
-  #self callable method
+  #instance attribute
   def __init__(self,cpu,ram):
     self.cpu=cpu
     self.ram=ram
