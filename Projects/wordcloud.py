@@ -3,8 +3,9 @@
 
 # In[2]:
 
-
+#import wordcloud
 from wordcloud import WordCloud
+#import matplotlib library.
 import matplotlib.pyplot as plt
 
 text = "sachin saurabh anurag dd vv vv vv vv vv vv vv vv vv vv vv vv vv vv vv vv vv vv ankita nisha neha surabhi suman vv lalit sachin sachin sachin sachin sachin sachin sachin sachin sachin sachin sachin sachin sachin sachin"
