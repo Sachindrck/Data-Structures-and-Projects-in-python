@@ -8,7 +8,7 @@ from wordcloud import WordCloud
 #import matplotlib library.
 import matplotlib.pyplot as plt
 
-text = "sachin saurabh anurag dd vv vv vv vv vv vv vv vv vv vv vv vv vv vv vv vv vv vv ankita nisha neha surabhi suman vv lalit sachin sachin sachin sachin sachin sachin sachin sachin sachin sachin sachin sachin sachin sachin"
+text = "sachin saurabh anurag dd vv vv vv vv vv vv vv vv vv vv vv vv vv vv vv vv vv vv Teka anurag nalin atharva suman vv lalit sachin sachin sachin sachin sachin sachin sachin sachin sachin sachin sachin sachin sachin sachin"
 
 cloud = WordCloud(background_color="white").generate(text)
 
