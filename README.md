@@ -5,3 +5,4 @@
 
 # Projects
   1. Wordcloud using matplotlib.
+  2. Oscar wining directors.
